@@ -99,7 +99,7 @@
     margin-top: 20px; 
     padding: 30px;
     }
-    .subscribe_input input{
+    .yourname{
       width: 40%;
       padding: 0px   20px;
       height: 50px;
@@ -167,10 +167,34 @@
     width: 100%;
   }
   .post-thumbnail{
-   
+   border-bottom: #ddd;
     margin-top: 20px;
     padding: 20px;
   }
  .ownthumb{
    border: none !important;
  }
+ .email-form{
+  padding: 1px;
+   background-color: white;
+   width: 50%;
+  height: 50px;
+  border-radius: 30px;
+  border:0;
+  margin-left: 10px;
+display: inline-block;
+ }
+ .email-form input{
+   width: 50%;
+   border: 0px;
+  margin: 15px;
+  border: 0px;
+}
+.sub_more{
+  font-size: 17px;
+  width: 39%;
+    color: #fff;
+    border-radius: 31px;
+    background-color: #7bbf44;
+  
+}
