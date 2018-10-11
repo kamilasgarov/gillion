@@ -1,164 +1,176 @@
 .main-navigation{
-text-align: right;
-padding: 20px 0px;
-}
-.main-navigation ul li a{
-  letter-spacing: 1px;
-  font-size: 12px;
-  font-weight: bold;
-  color: rgba(61,61,61,0.69);
-}
-.main-navigation ul li{
-  margin-left: 10px;
-}
-.main-header{
-  background-color: #fff;
-  border-bottom: 1px solid grey;
-  position: relative;
-  z-index: 1500;
-  padding:20px 0px; 
-}
-
-.img1{
-  
- 
-  position: relative;
-  background-size: cover;
-  height: 500px;
-  background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/8-1-372x484.jpg);
-}
-.img2{
-  
-  position: relative;
-  background-size: cover;
-  height: 500px;
-  background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/14-372x484.jpg);
-}
-.img3{
-  position: relative;
-  background-size: cover;
-  height: 500px;
-  background-image: url(https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/15-372x484.jpg);
-}
-.first-section{
-position: relative;
-  margin-top: 50px;
-}
-.blur{
-
-  border-radius: 10px;
-  width: 100%;
- height: 100%;
- background: linear-gradient( rgba(0, 0, 0, 0)15%, rgba(0, 0, 0, 0.75) );
-}
-.image-content{
-  z-index: 1000;
-position: absolute;
-left: 10px;
-right: 10px;
-bottom: 30px;
-}
-.image-content a{
- text-transform: uppercase;
-  text-decoration: none;
-  color: #7bbf44;
-  font-size: 14px;
-  font-weight: 700;
-}
-.image-content h1{
-  color: white;
-}
-.image-content h6{
-  color: white;
-}
-.image-content h6 span:hover{
-color:black;
-}
-.subscribe{
-
-  margin: 30px auto;
-  width: 98%;
-border-radius: 10px;
-background-image: url(http://gillion.shufflehound.com/foodie/wp-content/uploads/sites/4/2017/04/Sub1.jpg?id=856);
-height: 140px;
-}
-.subscribe_text{
-  text-align: center;
-margin-top: 20px;  
-  
-}
-.subscribe_text h1{
-color: #fff;
-  
-}
-.subscribe_text h1 strong{
-  font-size: 40px;
-    
+  text-align: right;
+  padding: 20px 0px;
   }
-.subscribe_input{
-  margin-top: 20px; 
-  padding: 30px;
+  .main-navigation ul li a{
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgba(61,61,61,0.69);
   }
-  .subscribe_input input{
-    width: 40%;
-    padding: 0px   20px;
-    height: 50px;
-    border-radius: 30px;
-    border:0;
+  .main-navigation ul li{
     margin-left: 10px;
   }
-.learn_more{
-  color: #fff;
-  padding:5px 25px;
-  border-radius: 15px;
-  background-color: grey;
-}
-.bread_image{
-  border-radius: 10px;
-  background-size: cover;
-  height: 450px;
-  background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/19-1200x675.jpg);
-}
-.post{
-  width: 100%;
-position: relative;
-
-}
-.hr {
-  background: #ddd;
-  left: 165px;
-  height: 1px;
-  /* border: 1px solid #ddd; */
-  width: 76%;
-  position: absolute;
-  top: 39px;
-}
-.hr2 {
-  background: #ddd;
-  left: 143px;
-  height: 1px;
-  /* border: 1px solid #ddd; */
-  width: 60%;
-  position: absolute;
-  top: 8px
-}
-.latest{
-
-  display: inline-block;
-}
-.cooking{
-  margin-top:20px; 
-  width: 100%;
-}
-.cooking h5{
-  color:#7bbf44;
-}
-.cooking h6{
-  font-size: 11px;
-  letter-spacing: 1px;
-  color: rgb(163, 163, 163);
-}
-.cooking h6 span:hover{
+  .main-header{
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+    position: relative;
+    z-index: 1500;
+    padding:20px 0px; 
+  }
   
-color:black;
-}
+  .img1{
+    
+   
+    position: relative;
+    background-size: cover;
+    height: 500px;
+    background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/8-1-372x484.jpg);
+  }
+  .img2{
+    
+    position: relative;
+    background-size: cover;
+    height: 500px;
+    background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/14-372x484.jpg);
+  }
+  .img3{
+    position: relative;
+    background-size: cover;
+    height: 500px;
+    background-image: url(https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/15-372x484.jpg);
+  }
+  .first-section{
+  position: relative;
+    margin-top: 50px;
+  }
+  .blur{
+  
+    border-radius: 10px;
+    width: 100%;
+   height: 100%;
+   background: linear-gradient( rgba(0, 0, 0, 0)15%, rgba(0, 0, 0, 0.75) );
+  }
+  .image-content{
+    z-index: 1000;
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: 30px;
+  }
+  .image-content a{
+   text-transform: uppercase;
+    text-decoration: none;
+    color: #7bbf44;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .image-content h1{
+    color: white;
+  }
+  .image-content h6{
+    color: white;
+  }
+  .image-content h6 span:hover{
+  color:black;
+  }
+  .subscribe{
+  
+    margin: 30px auto;
+    width: 98%;
+  border-radius: 10px;
+  background-image: url(http://gillion.shufflehound.com/foodie/wp-content/uploads/sites/4/2017/04/Sub1.jpg?id=856);
+  height: 140px;
+  }
+  .subscribe_text{
+    text-align: center;
+  margin-top: 20px;  
+    
+  }
+  .subscribe_text h1{
+  color: #fff;
+    
+  }
+  .subscribe_text h1 strong{
+    font-size: 40px;
+      
+    }
+  .subscribe_input{
+    margin-top: 20px; 
+    padding: 30px;
+    }
+    .subscribe_input input{
+      width: 40%;
+      padding: 0px   20px;
+      height: 50px;
+      border-radius: 30px;
+      border:0;
+      margin-left: 10px;
+    }
+  .learn_more{
+    color: #fff;
+    padding:5px 25px;
+    border-radius: 15px;
+    background-color: grey;
+  }
+  .bread_image{
+    border-radius: 10px;
+    background-size: cover;
+    height: 450px;
+    background-image: url( https://cdn.gillion.shufflehound.com/wp-content/uploads/sites/4/2017/01/19-1200x675.jpg);
+  }
+  .post{
+    width: 100%;
+  position: relative;
+  
+  }
+  .hr {
+    background: #ddd;
+    left: 165px;
+    height: 1px;
+    /* border: 1px solid #ddd; */
+    width: 76%;
+    position: absolute;
+    top: 39px;
+  }
+  .hr2 {
+    background: #ddd;
+    left: 143px;
+    height: 1px;
+    /* border: 1px solid #ddd; */
+    width: 60%;
+    position: absolute;
+    top: 8px
+  }
+  .latest{
+  
+    display: inline-block;
+  }
+  .cooking{
+    margin-top:20px; 
+    width: 100%;
+  }
+  .cooking h5{
+    color:#7bbf44;
+  }
+  .cooking h6{
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: rgb(163, 163, 163);
+  }
+  .cooking h6 span:hover{
+    
+  color:black;
+  }
+  .post-thumbnail img{
+    border-radius: 10px;
+    width: 100%;
+  }
+  .post-thumbnail{
+   
+    margin-top: 20px;
+    padding: 20px;
+  }
+ .ownthumb{
+   border: none !important;
+ }
