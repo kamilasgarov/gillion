@@ -1,4 +1,11 @@
+.container-own{
+
+max-width: 1200px;
+margin: 0 auto;
+}
+
 .main-navigation{
+  
   text-align: right;
   padding: 20px 0px;
   }
@@ -146,7 +153,59 @@
   
     display: inline-block;
   }
+  .post-img{
+    position: relative;
+  
+  }
+  .post-img img{
+    border-radius: 10px;
+    width: 100%;
+
+  }
+  .slider-img{
+    padding: 0px;
+  }
+  .post-content{
+    color: #7b7777;
+    height: 50px;
+  }
+  .slider-img img{
+    border-radius: 5px;
+    padding: 0px;
+    height: 63px;
+    width: 100%;
+}
+  .slider-text{
+    font-size: 10px;
+    line-height: 13px;
+    letter-spacing: 0px;
+}
+  
+  .cooking-hover {
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: black;
+    opacity: 0;
+}
+  .cooking-hover:hover {
+    border-radius: 10px;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.3;
+}
   .cooking{
+   
     margin-top:20px; 
     width: 100%;
   }
@@ -162,10 +221,7 @@
     
   color:black;
   }
-  .post-thumbnail img{
-    border-radius: 10px;
-    width: 100%;
-  }
+  
   .post-thumbnail{
    border-bottom: #ddd;
     margin-top: 20px;
